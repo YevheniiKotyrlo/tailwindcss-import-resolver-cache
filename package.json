@@ -1,0 +1,12 @@
+{
+  "name": "tailwindcss-import-resolver-cache",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/node": "0.0.0-insiders.8cc0551",
+    "tailwindcss": "0.0.0-insiders.8cc0551"
+  },
+  "scripts": {
+    "start": "node repro.mjs"
+  }
+}
